@@ -151,7 +151,10 @@ Sample predictions for verification
 📸 Output Snapshots
 
 
-[Confusion Matrix](link)
-[WordCloud - Positive](link)
-[WordCloud - Negative](link)
-[Sample Predictions](link)
+[Confusion Matrix](![Image](https://github.com/user-attachments/assets/b12fb734-3297-4b7b-9064-d288fcd3fead))
+[WordCloud - Positive](
+![Image](https://github.com/user-attachments/assets/60d54e5e-74a7-42ce-9ad9-26ff2ffd32be))
+[WordCloud - Negative](
+![Image](https://github.com/user-attachments/assets/60d54e5e-74a7-42ce-9ad9-26ff2ffd32be))
+[Sample Predictions](
+![Image](https://github.com/user-attachments/assets/58e6ad23-63f2-4970-b40c-8954bb783598))
